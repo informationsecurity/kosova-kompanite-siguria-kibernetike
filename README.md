@@ -1,0 +1,2 @@
+# kosova-kompanite-siguria-kibernetike
+Kompanitë më të mira të sigurisë kibernetike në Kosovë
